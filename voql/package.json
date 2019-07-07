@@ -1,0 +1,9 @@
+{
+  "name": "voql",
+  "version": "0.0.0",
+  "description": "voql",
+  "main": "app.js",
+  "author": {
+    "name": "prhod_000"
+  }
+}
